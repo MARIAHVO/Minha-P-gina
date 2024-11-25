@@ -1,2 +1,2 @@
-# Minha-P-gina
+# Minha-Pagina
 Exemplo de projeto básico com Html, Css e Javascript.
